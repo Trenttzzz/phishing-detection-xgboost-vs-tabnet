@@ -1,0 +1,20 @@
+{
+    "gpu_metrics": {
+        "Model": "TabNet (Tuned)",
+        "Device": "cuda",
+        "Accuracy": 0.9059084492841298,
+        "Precision": 0.9294562066239128,
+        "Recall": 0.8736581337737407,
+        "F1-score": 0.9006938236921637,
+        "Inference Time (ms/sample)": 0.026675042347240475
+    },
+    "cpu_metrics": {
+        "Model": "TabNet (Tuned)",
+        "Device": "cpu",
+        "Accuracy": 0.905908,
+        "Precision": 0.929456,
+        "Recall": 0.873658,
+        "F1-score": 0.900694,
+        "Inference Time (ms/sample)": 0.034551
+    }
+}

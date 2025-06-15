@@ -1,0 +1,20 @@
+{
+    "gpu_metrics": {
+        "Model": "XGBoost (Tuned)",
+        "Device": "GPU",
+        "Accuracy": 0.9550312563016737,
+        "Precision": 0.9679121627372542,
+        "Recall": 0.9390586292320396,
+        "F1-score": 0.9532671109434595,
+        "Inference Time (ms/sample)": 0.0008042745077630719
+    },
+    "cpu_metrics": {
+        "Model": "XGBoost (Tuned)",
+        "Device": "CPU",
+        "Accuracy": 0.9550312563016737,
+        "Precision": 0.9679121627372542,
+        "Recall": 0.9390586292320396,
+        "F1-score": 0.9532671109434595,
+        "Inference Time (ms/sample)": 0.026744458847348544
+    }
+}
